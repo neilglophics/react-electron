@@ -1,6 +1,6 @@
 import { Routes, Route, HashRouter } from "react-router-dom";
-import Home from "./Home";
-import User from "./User";
+import Home from "./pages/Home";
+import User from "./pages/User";
 
 export default function App() {
   return (
